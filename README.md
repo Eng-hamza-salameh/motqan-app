@@ -41,7 +41,7 @@ Below are actual UI screens from the **Motqan (متقن)** mobile application:
 
 | Splash & Branding | Welcome Screen | Main Home & Marketplace |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Eng-hamza-salameh/motqan-frontend/main/docs/screenshots/splash.jpg" width="240" /> | <img src="https://raw.githubusercontent.com/Eng-hamza-salameh/motqan-frontend/main/docs/screenshots/welcome.jpg" width="240" /> | <img src="https://raw.githubusercontent.com/Eng-hamza-salameh/motqan-frontend/main/docs/screenshots/home.jpg" width="240" /> |
+| <img src="./docs/screenshots/splash.jpg" width="240" /> | <img src="./docs/screenshots/welcome.jpg" width="240" /> | <img src="./docs/screenshots/home.jpg" width="240" /> |
 
 ---
 

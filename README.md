@@ -41,11 +41,11 @@ Below are actual UI screens from the **Motqan (متقن)** mobile application:
 
 | Splash & Branding | Welcome Screen | Main Home & Marketplace |
 | :---: | :---: | :---: |
-| <img src="./docs/screenshots/splash.jpg" width="220" /> | <img src="./docs/screenshots/welcome.jpg" width="220" /> | <img src="./docs/screenshots/home.jpg" width="220" /> |
+| <img src="docs/screenshots/splash.jpg" width="220" /> | <img src="docs/screenshots/welcome.jpg" width="220" /> | <img src="docs/screenshots/home.jpg" width="220" /> |
 
 | Service Provider Details | Interactive Location Map | Job Request Creation |
 | :---: | :---: | :---: |
-| <img src="./docs/screenshots/provider.jpg" width="220" /> | <img src="./docs/screenshots/map.jpg" width="220" /> | <img src="./docs/screenshots/job_create.png" width="220" /> |
+| <img src="docs/screenshots/provider.jpg" width="220" /> | <img src="docs/screenshots/map.jpg" width="220" /> | <img src="docs/screenshots/job_create.jpg" width="220" /> |
 
 ---
 

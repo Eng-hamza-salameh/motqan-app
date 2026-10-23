@@ -45,7 +45,7 @@ Below are actual UI screens from the **Motqan (متقن)** mobile application:
 
 | Service Provider Details | Interactive Location Map | Job Request Creation |
 | :---: | :---: | :---: |
-| <img src="./docs/screenshots/provider.jpg" width="220" /> | <img src="./docs/screenshots/map.jpg" width="220" /> | <img src="./docs/screenshots/job_create.jpg" width="220" /> |
+| <img src="./docs/screenshots/provider.jpg" width="220" /> | <img src="./docs/screenshots/map.jpg" width="220" /> | <img src="./docs/screenshots/job_create.png" width="220" /> |
 
 ---
 
